@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Web Development<br><br>👯 I’m looking to collaborate on:<br>Web Development projects.<br><br>🌱 I’m currently learning:<br>Full Stack Web Development<br><br>💬 Ask me about:<br>JavaScript, MernStack, CSS, HTML, C++, and general software development questions.<br><br>⚡Focused on improving my skills
+🔭 I’m currently working on:<br>Web Development<br><br>👯 I’m looking to collaborate on:<br>Web Development projects.<br><br>🌱 I’m currently learning:<br>Full Stack Web Development<br><br>💬 Ask me about:<br>JavaScript, MernStack, CSS, HTML, C++,SQL and general software development questions.<br><br>⚡Focused on improving my skills
 
 
 ## 🌐 Socials:
