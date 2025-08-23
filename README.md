@@ -24,7 +24,7 @@ I'm a passionate **Java Developer** focused on mastering **Data Structures and A
 ## 📫 Contact Me
 
 - 📧 saikumardash525@gmail.com
-- 💼 [LinkedIn](https://linkedin.com) _(Add your profile link here)_
+- 💼 [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/sai-kumar-dash/))
 
 ---
 
