@@ -13,7 +13,7 @@ I'm a passionate **Java Developer** focused on mastering **Data Structures and A
 
 ## 🛠️ Tech Stack
 - **Languages:** Java, JavaScript, Python (basic)
-- **Tools:** Git & GitHub, VS Code, IntelliJ IDEA
+- **Tools:** Git & GitHub, VS Code, Eclipse IDE
 - **Concepts:** Object-Oriented Programming, Data Structures, Algorithms, Problem Solving
 
 ---
